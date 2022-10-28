@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: pink;
+}
+#projects {
+  background-color: pink;
+}
+.card img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+section {
+  padding-top: 5rem;
+}
